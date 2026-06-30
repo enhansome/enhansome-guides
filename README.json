@@ -23,7 +23,7 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6654
+            "stars": 6655
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25707
+            "stars": 25708
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29457
+            "stars": 29458
           }
         }
       ],
@@ -295,7 +295,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105377
+            "stars": 105382
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-29T06:28:05.639Z",
+    "last_updated": "2026-06-30T06:01:33.257Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
