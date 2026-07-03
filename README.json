@@ -93,7 +93,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148087
+            "stars": 148089
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29457
+            "stars": 29455
           }
         }
       ],
@@ -250,7 +250,7 @@
             "last_commit": "2022-09-26T20:12:02Z",
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5117
+            "stars": 5116
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2025-06-12T15:45:39Z",
             "owner": "RomuloOliveira",
             "repo": "commit-messages-guide",
-            "stars": 6771
+            "stars": 6770
           }
         }
       ],
@@ -295,7 +295,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105384
+            "stars": 105386
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-02T05:49:16.298Z",
+    "last_updated": "2026-07-03T05:43:21.766Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
