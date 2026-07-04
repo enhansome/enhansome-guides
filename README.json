@@ -67,8 +67,8 @@
         },
         {
           "children": [],
-          "description": "UPDATED]",
-          "title": "Google JavaScript Style Guide"
+          "description": null,
+          "title": "[UPDATED] Google JavaScript Style Guide"
         },
         {
           "children": [],
@@ -80,7 +80,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25704
+            "stars": 25705
           }
         },
         {
@@ -93,7 +93,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148084
+            "stars": 148083
           }
         },
         {
@@ -209,7 +209,7 @@
         {
           "children": [],
           "description": null,
-          "title": "Principles of good RESTful API\nDesign"
+          "title": "Principles of good RESTful API Design"
         },
         {
           "children": [],
@@ -295,24 +295,24 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105390
+            "stars": 105391
           }
         }
       ],
       "title": "Node.js"
     },
     {
-      "description": "Any improvements or suggestions are welcome!\nSee Contribution Guides.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.",
+      "description": "Any improvements or suggestions are welcome! See Contribution Guides.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.",
       "items": [],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-04T05:36:50.847Z",
+    "last_updated": "2026-07-04T08:01:55.263Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
     "enhanced_repository_description": null,
-    "title": "Awesome enhansome guides"
+    "title": "Awesome guides with stars"
   }
 }
