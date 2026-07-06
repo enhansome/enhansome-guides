@@ -23,7 +23,7 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6656
+            "stars": 6655
           }
         },
         {
@@ -41,7 +41,7 @@
             "last_commit": "2022-09-01T10:44:01Z",
             "owner": "csswizardry",
             "repo": "CSS-Guidelines",
-            "stars": 3647
+            "stars": 3646
           }
         }
       ],
@@ -80,7 +80,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25706
+            "stars": 25705
           }
         },
         {
@@ -93,7 +93,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148080
+            "stars": 148081
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29454
+            "stars": 29456
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2024-01-16T20:27:54Z",
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13686
+            "stars": 13685
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2022-09-26T20:12:02Z",
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5117
+            "stars": 5116
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105394
+            "stars": 105402
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-05T05:55:06.295Z",
+    "last_updated": "2026-07-06T06:18:31.520Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
