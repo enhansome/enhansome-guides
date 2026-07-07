@@ -93,7 +93,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148081
+            "stars": 148079
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2025-10-15T23:23:44Z",
             "owner": "hueitan",
             "repo": "javascript-sdk-design",
-            "stars": 1430
+            "stars": 1431
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105402
+            "stars": 105405
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-06T06:18:31.520Z",
+    "last_updated": "2026-07-07T05:58:44.368Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
