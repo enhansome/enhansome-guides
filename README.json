@@ -9,9 +9,11 @@
       "description": "",
       "items": [
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Principles of writing consistent, idiomatic CSS",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -22,9 +24,11 @@
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "General CSS notes, advice and guidelines",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -33,16 +37,6 @@
             "repo": "CSS-Guidelines",
             "stars": 3646
           }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Google HTML/CSS Style Guide"
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "HTML and CSS code guide"
         }
       ],
       "title": "CSS"
@@ -61,22 +55,26 @@
       "description": "",
       "items": [
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "registry",
           "title": "Airbnb JavaScript Style Guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148081
+            "stars": 148080
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Project Guidelines",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
@@ -87,22 +85,26 @@
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "registry",
           "title": "Principles of Writing Consistent, Idiomatic JavaScript",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25707
+            "stars": 25706
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "JavaScript SDK Design Guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
@@ -113,9 +115,11 @@
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "ES6 Coding Style",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -124,21 +128,6 @@
             "repo": "coding-styles",
             "stars": 401
           }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Google JavaScript Style Guide"
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "[UPDATED] Google JavaScript Style Guide"
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "JavaScript: The Right Way"
         }
       ],
       "title": "JavaScript"
@@ -147,9 +136,11 @@
       "description": "",
       "items": [
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "NYTimes Objective-C Style Guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": true,
             "language": null,
@@ -160,9 +151,11 @@
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "The official raywenderlich.com Objective-C style guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -171,11 +164,6 @@
             "repo": "objective-c-style-guide",
             "stars": 3086
           }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Google Objective-C Style Guide"
         }
       ],
       "title": "Objective-C"
@@ -194,9 +182,11 @@
       "description": "",
       "items": [
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Microsoft REST API Guidelines",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -207,9 +197,11 @@
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "HTTP API Design Guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -218,21 +210,6 @@
             "repo": "http-api-design",
             "stars": 13684
           }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Principles of good RESTful API Design"
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Building JSON-LD APIs: Best Practices"
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Zalando RESTful API and Event Scheme Guidelines"
         }
       ],
       "title": "API"
@@ -241,9 +218,11 @@
       "description": "",
       "items": [
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Commit messages guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -254,9 +233,11 @@
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Git Style Guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": null,
@@ -273,22 +254,26 @@
       "description": "",
       "items": [
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Node.js Best Practices",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105414
+            "stars": 105413
           }
         },
         {
-          "children": [],
-          "description": null,
+          "node_type": "item",
+          "kind": "repository",
           "title": "Node.js Style Guide",
+          "description": null,
+          "children": [],
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
@@ -308,11 +293,12 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-10T05:54:00.614Z",
+    "last_updated": "2026-07-10T08:08:25.366Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
     "enhanced_repository_description": null,
+    "kind": "registry",
     "title": "Awesome guides with stars"
   }
 }
