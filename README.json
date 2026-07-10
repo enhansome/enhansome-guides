@@ -11,11 +11,6 @@
         {
           "children": [],
           "description": null,
-          "title": "Google HTML/CSS Style Guide"
-        },
-        {
-          "children": [],
-          "description": null,
           "title": "Principles of writing consistent, idiomatic CSS",
           "repo_info": {
             "archived": false,
@@ -23,13 +18,8 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6655
+            "stars": 6656
           }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "HTML and CSS code guide"
         },
         {
           "children": [],
@@ -43,6 +33,16 @@
             "repo": "CSS-Guidelines",
             "stars": 3646
           }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Google HTML/CSS Style Guide"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "HTML and CSS code guide"
         }
       ],
       "title": "CSS"
@@ -63,12 +63,28 @@
         {
           "children": [],
           "description": null,
-          "title": "Google JavaScript Style Guide"
+          "title": "Airbnb JavaScript Style Guide",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148081
+          }
         },
         {
           "children": [],
           "description": null,
-          "title": "[UPDATED] Google JavaScript Style Guide"
+          "title": "Project Guidelines",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T07:59:04Z",
+            "owner": "elsewhencode",
+            "repo": "project-guidelines",
+            "stars": 29455
+          }
         },
         {
           "children": [],
@@ -81,37 +97,6 @@
             "owner": "rwaldron",
             "repo": "idiomatic.js",
             "stars": 25707
-          }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Airbnb JavaScript Style Guide",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-16T19:24:09Z",
-            "owner": "airbnb",
-            "repo": "javascript",
-            "stars": 148082
-          }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "JavaScript: The Right Way"
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "ES6 Coding Style",
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-08-17T18:23:17Z",
-            "owner": "elierotenberg",
-            "repo": "coding-styles",
-            "stars": 401
           }
         },
         {
@@ -130,15 +115,30 @@
         {
           "children": [],
           "description": null,
-          "title": "Project Guidelines",
+          "title": "ES6 Coding Style",
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-09T07:59:04Z",
-            "owner": "elsewhencode",
-            "repo": "project-guidelines",
-            "stars": 29455
+            "language": null,
+            "last_commit": "2016-08-17T18:23:17Z",
+            "owner": "elierotenberg",
+            "repo": "coding-styles",
+            "stars": 401
           }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Google JavaScript Style Guide"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "[UPDATED] Google JavaScript Style Guide"
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "JavaScript: The Right Way"
         }
       ],
       "title": "JavaScript"
@@ -146,11 +146,6 @@
     {
       "description": "",
       "items": [
-        {
-          "children": [],
-          "description": null,
-          "title": "Google Objective-C Style Guide"
-        },
         {
           "children": [],
           "description": null,
@@ -176,6 +171,11 @@
             "repo": "objective-c-style-guide",
             "stars": 3086
           }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Google Objective-C Style Guide"
         }
       ],
       "title": "Objective-C"
@@ -193,6 +193,19 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Microsoft REST API Guidelines",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-21T22:27:21Z",
+            "owner": "microsoft",
+            "repo": "api-guidelines",
+            "stars": 23291
+          }
+        },
         {
           "children": [],
           "description": null,
@@ -214,19 +227,6 @@
         {
           "children": [],
           "description": null,
-          "title": "Microsoft REST API Guidelines",
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-21T22:27:21Z",
-            "owner": "microsoft",
-            "repo": "api-guidelines",
-            "stars": 23291
-          }
-        },
-        {
-          "children": [],
-          "description": null,
           "title": "Building JSON-LD APIs: Best Practices"
         },
         {
@@ -243,19 +243,6 @@
         {
           "children": [],
           "description": null,
-          "title": "Git Style Guide",
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-26T20:12:02Z",
-            "owner": "agis",
-            "repo": "git-style-guide",
-            "stars": 5116
-          }
-        },
-        {
-          "children": [],
-          "description": null,
           "title": "Commit messages guide",
           "repo_info": {
             "archived": false,
@@ -263,7 +250,20 @@
             "last_commit": "2025-06-12T15:45:39Z",
             "owner": "RomuloOliveira",
             "repo": "commit-messages-guide",
-            "stars": 6770
+            "stars": 6769
+          }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "Git Style Guide",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-26T20:12:02Z",
+            "owner": "agis",
+            "repo": "git-style-guide",
+            "stars": 5117
           }
         }
       ],
@@ -272,6 +272,19 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": null,
+          "title": "Node.js Best Practices",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-06-15T11:41:04Z",
+            "owner": "goldbergyoni",
+            "repo": "nodebestpractices",
+            "stars": 105414
+          }
+        },
         {
           "children": [],
           "description": null,
@@ -284,19 +297,6 @@
             "repo": "node-style-guide",
             "stars": 4991
           }
-        },
-        {
-          "children": [],
-          "description": null,
-          "title": "Node.js Best Practices",
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-06-15T11:41:04Z",
-            "owner": "goldbergyoni",
-            "repo": "nodebestpractices",
-            "stars": 105407
-          }
         }
       ],
       "title": "Node.js"
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-09T05:55:09.830Z",
+    "last_updated": "2026-07-10T05:54:00.614Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
