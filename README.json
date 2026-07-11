@@ -56,7 +56,7 @@
       "items": [
         {
           "node_type": "item",
-          "kind": "registry",
+          "kind": "repository",
           "title": "Airbnb JavaScript Style Guide",
           "description": null,
           "children": [],
@@ -66,7 +66,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148080
+            "stars": 148083
           }
         },
         {
@@ -81,12 +81,12 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29455
+            "stars": 29456
           }
         },
         {
           "node_type": "item",
-          "kind": "registry",
+          "kind": "repository",
           "title": "Principles of Writing Consistent, Idiomatic JavaScript",
           "description": null,
           "children": [],
@@ -96,7 +96,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25706
+            "stars": 25708
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105413
+            "stars": 105414
           }
         },
         {
@@ -293,12 +293,13 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-10T08:08:25.366Z",
+    "last_updated": "2026-07-11T02:56:45.610Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
     "enhanced_repository_description": null,
     "kind": "registry",
-    "title": "Awesome guides with stars"
+    "title": "Awesome guides with stars",
+    "registry_signal": "content"
   }
 }

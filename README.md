@@ -94,7 +94,7 @@ coding style guides and development practices across the web.
 ### C++
 
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,160 | 🐛 251 | 🌐 CSS | 📅 2026-06-15
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,162 | 🐛 251 | 🌐 CSS | 📅 2026-06-15
 
 ### C\#
 
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 135,291 | 🐛 10,182 | 🌐 Go | 📅 2026-07-10
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 135,307 | 🐛 10,192 | 🌐 Go | 📅 2026-07-10
 
 ### Haskell
 
@@ -123,9 +123,9 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,080 | 🐛 160 | 🌐 JavaScript | 📅 2026-04-16
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,455 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,706 | 🐛 58 | 📅 2024-01-08
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,083 | 🐛 160 | 🌐 JavaScript | 📅 2026-04-16
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,456 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,708 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,431 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 401 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -163,7 +163,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 114,604 | 🐛 12,596 | 🌐 Rust | 📅 2026-07-10
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 114,607 | 🐛 12,598 | 🌐 Rust | 📅 2026-07-11
 
 ### Scala
 
@@ -181,7 +181,7 @@ coding style guides and development practices across the web.
 
 ### Swift
 
-* [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme) ⭐ 13,168 | 🐛 16 | 📅 2025-04-01
+* [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme) ⭐ 13,167 | 🐛 16 | 📅 2025-04-01
 
 ### Vimscript
 
@@ -255,7 +255,7 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,413 | 🐛 133 | 🌐 Dockerfile | 📅 2026-06-15
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,414 | 🐛 133 | 🌐 Dockerfile | 📅 2026-06-15
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,991 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
@@ -289,4 +289,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-07-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-07-11._
