@@ -35,7 +35,7 @@
             "last_commit": "2022-09-01T10:44:01Z",
             "owner": "csswizardry",
             "repo": "CSS-Guidelines",
-            "stars": 3646
+            "stars": 3645
           }
         }
       ],
@@ -66,7 +66,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148080
+            "stars": 148084
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25708
+            "stars": 25710
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-21T22:27:21Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23298
+            "stars": 23299
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2024-01-16T20:27:54Z",
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13685
+            "stars": 13686
           }
         }
       ],
@@ -293,7 +293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-13T05:25:30.222Z",
+    "last_updated": "2026-07-14T04:40:18.944Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
