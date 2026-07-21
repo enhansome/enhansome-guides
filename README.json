@@ -96,7 +96,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25718
+            "stars": 25715
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-21T22:27:21Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23297
+            "stars": 23298
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2025-06-12T15:45:39Z",
             "owner": "RomuloOliveira",
             "repo": "commit-messages-guide",
-            "stars": 6770
+            "stars": 6771
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105431
+            "stars": 105432
           }
         },
         {
@@ -293,7 +293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-20T05:29:57.670Z",
+    "last_updated": "2026-07-21T04:58:22.745Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
