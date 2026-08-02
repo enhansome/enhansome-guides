@@ -94,7 +94,7 @@ coding style guides and development practices across the web.
 ### C++
 
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,215 | 🐛 252 | 🌐 CSS | 📅 2026-06-15
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,217 | 🐛 252 | 🌐 CSS | 📅 2026-06-15
 
 ### C\#
 
@@ -111,11 +111,11 @@ coding style guides and development practices across the web.
 
 ### Elixir
 
-* [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) ⭐ 4,427 | 🐛 8 | 🌐 Elixir | 📅 2024-05-10
+* [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) ⭐ 4,429 | 🐛 8 | 🌐 Elixir | 📅 2024-05-10
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 135,453 | 🐛 10,211 | 🌐 Go | 📅 2026-08-01
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 135,466 | 🐛 10,215 | 🌐 Go | 📅 2026-08-01
 
 ### Haskell
 
@@ -123,9 +123,9 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,083 | 🐛 161 | 🌐 JavaScript | 📅 2026-04-16
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,455 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,715 | 🐛 58 | 📅 2024-01-08
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,086 | 🐛 161 | 🌐 JavaScript | 📅 2026-04-16
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,456 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,717 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,431 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 401 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -158,12 +158,12 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,549 | 🐛 74 | 📅 2026-07-20
+* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,548 | 🐛 74 | 📅 2026-07-20
 * [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 115,006 | 🐛 12,704 | 🌐 Rust | 📅 2026-08-01
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 115,030 | 🐛 12,693 | 🌐 Rust | 📅 2026-08-02
 
 ### Scala
 
@@ -242,7 +242,7 @@ coding style guides and development practices across the web.
 
 ### Git
 
-* [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme) ⭐ 6,769 | 🐛 13 | 📅 2025-06-12
+* [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme) ⭐ 6,770 | 🐛 13 | 📅 2025-06-12
 * [Git Style Guide](https://github.com/agis/git-style-guide#readme) ⭐ 5,118 | 🐛 0 | 📅 2022-09-26
 
 ### JSON
@@ -255,7 +255,7 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,466 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,467 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,991 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
@@ -289,4 +289,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-02._
