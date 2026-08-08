@@ -33,7 +33,7 @@
             "last_commit": "2022-09-01T10:44:01Z",
             "owner": "csswizardry",
             "repo": "CSS-Guidelines",
-            "stars": 3644
+            "stars": 3643
           }
         }
       ],
@@ -63,7 +63,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148112
+            "stars": 148120
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29454
+            "stars": 29455
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25721
+            "stars": 25723
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2017-10-01T12:49:18Z",
             "owner": "kodecocodes",
             "repo": "objective-c-style-guide",
-            "stars": 3081
+            "stars": 3082
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23319
+            "stars": 23317
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2025-06-12T15:45:39Z",
             "owner": "RomuloOliveira",
             "repo": "commit-messages-guide",
-            "stars": 6770
+            "stars": 6769
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105486
+            "stars": 105492
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2021-01-24T03:40:33Z",
             "owner": "felixge",
             "repo": "node-style-guide",
-            "stars": 4991
+            "stars": 4992
           }
         }
       ],
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-07T04:18:18.120Z",
+    "last_updated": "2026-08-08T03:15:54.719Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
