@@ -63,7 +63,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148114
+            "stars": 148121
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29453
+            "stars": 29454
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25725
+            "stars": 25726
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23317
+            "stars": 23316
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2024-01-16T20:27:54Z",
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13684
+            "stars": 13686
           }
         }
       ],
@@ -251,7 +251,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105505
+            "stars": 105506
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2021-01-24T03:40:33Z",
             "owner": "felixge",
             "repo": "node-style-guide",
-            "stars": 4992
+            "stars": 4993
           }
         }
       ],
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-10T03:42:51.655Z",
+    "last_updated": "2026-08-11T03:25:22.080Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
