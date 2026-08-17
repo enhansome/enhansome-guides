@@ -94,7 +94,7 @@ coding style guides and development practices across the web.
 ### C++
 
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,245 | 🐛 245 | 🌐 CSS | 📅 2026-08-06
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,246 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 ### C\#
 
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 135,788 | 🐛 10,221 | 🌐 Go | 📅 2026-08-15
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 135,825 | 🐛 10,237 | 🌐 Go | 📅 2026-08-15
 
 ### Haskell
 
@@ -123,9 +123,9 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,144 | 🐛 162 | 🌐 JavaScript | 📅 2026-04-16
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,453 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,731 | 🐛 58 | 📅 2024-01-08
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,148 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,450 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,732 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,431 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 401 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -163,7 +163,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 115,511 | 🐛 12,705 | 🌐 Rust | 📅 2026-08-16
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 115,531 | 🐛 12,703 | 🌐 Rust | 📅 2026-08-17
 
 ### Scala
 
@@ -212,7 +212,7 @@ coding style guides and development practices across the web.
 
 ### API
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,319 | 🐛 176 | 📅 2026-08-05
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,316 | 🐛 176 | 📅 2026-08-05
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,685 | 🐛 30 | 📅 2024-01-16
 * [Principles of good RESTful API
   Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
@@ -234,7 +234,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-* [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme) ⭐ 9,905 | 🐛 3 | 📅 2026-01-22
+* [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme) ⭐ 9,904 | 🐛 3 | 📅 2026-01-22
 
 ### iOS
 
@@ -255,8 +255,8 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,542 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15
-* [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,993 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,572 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15
+* [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,994 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
 
@@ -289,4 +289,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
