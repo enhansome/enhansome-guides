@@ -1,284 +1,293 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Principles of writing consistent, idiomatic CSS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4431560,
+                "language": null,
+                "last_commit": "2022-12-21T12:01:30Z",
+                "owner": "necolas",
+                "repo": "idiomatic-css",
+                "stars": 6651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "General CSS notes, advice and guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3676419,
+                "language": null,
+                "last_commit": "2022-09-01T10:44:01Z",
+                "owner": "csswizardry",
+                "repo": "CSS-Guidelines",
+                "stars": 3644
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSS"
+        }
+      ],
       "title": "Styling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Principles of writing consistent, idiomatic CSS",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Airbnb JavaScript Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Project Guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95876775,
+                "language": "JavaScript",
+                "last_commit": "2024-12-09T07:59:04Z",
+                "owner": "elsewhencode",
+                "repo": "project-guidelines",
+                "stars": 29450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Principles of Writing Consistent, Idiomatic JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1800198,
+                "language": null,
+                "last_commit": "2024-01-08T20:19:45Z",
+                "owner": "rwaldron",
+                "repo": "idiomatic.js",
+                "stars": 25733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript SDK Design Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34468774,
+                "language": "JavaScript",
+                "last_commit": "2025-10-15T23:23:44Z",
+                "owner": "hueitan",
+                "repo": "javascript-sdk-design",
+                "stars": 1431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 Coding Style",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31465455,
+                "language": null,
+                "last_commit": "2016-08-17T18:23:17Z",
+                "owner": "elierotenberg",
+                "repo": "coding-styles",
+                "stars": 401
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-21T12:01:30Z",
-            "owner": "necolas",
-            "repo": "idiomatic-css",
-            "stars": 6651
-          }
+          "node_type": "group",
+          "title": "JavaScript"
         },
         {
-          "node_type": "item",
-          "title": "General CSS notes, advice and guidelines",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NYTimes Objective-C Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11797828,
+                "language": null,
+                "last_commit": "2023-05-09T17:23:08Z",
+                "owner": "nytimes",
+                "repo": "objective-c-style-guide",
+                "stars": 5818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The official raywenderlich.com Objective-C style guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14204860,
+                "language": null,
+                "last_commit": "2017-10-01T12:49:18Z",
+                "owner": "kodecocodes",
+                "repo": "objective-c-style-guide",
+                "stars": 3083
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-01T10:44:01Z",
-            "owner": "csswizardry",
-            "repo": "CSS-Guidelines",
-            "stars": 3644
-          }
+          "node_type": "group",
+          "title": "Objective-C"
         }
       ],
-      "title": "CSS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Markup"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Programming Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Airbnb JavaScript Style Guide",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft REST API Guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63188650,
+                "language": null,
+                "last_commit": "2026-08-05T00:07:38Z",
+                "owner": "microsoft",
+                "repo": "api-guidelines",
+                "stars": 23318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTP API Design Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19542809,
+                "language": null,
+                "last_commit": "2024-01-16T20:27:54Z",
+                "owner": "interagent",
+                "repo": "http-api-design",
+                "stars": 13684
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-16T19:24:09Z",
-            "owner": "airbnb",
-            "repo": "javascript",
-            "stars": 148134
-          }
+          "node_type": "group",
+          "title": "API"
         },
         {
-          "node_type": "item",
-          "title": "Project Guidelines",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Commit messages guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122889876,
+                "language": null,
+                "last_commit": "2025-06-12T15:45:39Z",
+                "owner": "RomuloOliveira",
+                "repo": "commit-messages-guide",
+                "stars": 6768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33088032,
+                "language": null,
+                "last_commit": "2022-09-26T20:12:02Z",
+                "owner": "agis",
+                "repo": "git-style-guide",
+                "stars": 5116
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-09T07:59:04Z",
-            "owner": "elsewhencode",
-            "repo": "project-guidelines",
-            "stars": 29451
-          }
+          "node_type": "group",
+          "title": "Git"
         },
         {
-          "node_type": "item",
-          "title": "Principles of Writing Consistent, Idiomatic JavaScript",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node.js Best Practices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103633984,
+                "language": "Dockerfile",
+                "last_commit": "2026-06-15T11:41:04Z",
+                "owner": "goldbergyoni",
+                "repo": "nodebestpractices",
+                "stars": 105585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4822113,
+                "language": "JavaScript",
+                "last_commit": "2021-01-24T03:40:33Z",
+                "owner": "felixge",
+                "repo": "node-style-guide",
+                "stars": 4994
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-08T20:19:45Z",
-            "owner": "rwaldron",
-            "repo": "idiomatic.js",
-            "stars": 25732
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JavaScript SDK Design Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-15T23:23:44Z",
-            "owner": "hueitan",
-            "repo": "javascript-sdk-design",
-            "stars": 1431
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ES6 Coding Style",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-08-17T18:23:17Z",
-            "owner": "elierotenberg",
-            "repo": "coding-styles",
-            "stars": 401
-          }
+          "node_type": "group",
+          "title": "Node.js"
         }
       ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NYTimes Objective-C Style Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-05-09T17:23:08Z",
-            "owner": "nytimes",
-            "repo": "objective-c-style-guide",
-            "stars": 5818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The official raywenderlich.com Objective-C style guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-10-01T12:49:18Z",
-            "owner": "kodecocodes",
-            "repo": "objective-c-style-guide",
-            "stars": 3083
-          }
-        }
-      ],
-      "title": "Objective-C"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Microsoft REST API Guidelines",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-05T00:07:38Z",
-            "owner": "microsoft",
-            "repo": "api-guidelines",
-            "stars": 23317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTTP API Design Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-16T20:27:54Z",
-            "owner": "interagent",
-            "repo": "http-api-design",
-            "stars": 13684
-          }
-        }
-      ],
-      "title": "API"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Commit messages guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-12T15:45:39Z",
-            "owner": "RomuloOliveira",
-            "repo": "commit-messages-guide",
-            "stars": 6768
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Git Style Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-26T20:12:02Z",
-            "owner": "agis",
-            "repo": "git-style-guide",
-            "stars": 5116
-          }
-        }
-      ],
-      "title": "Git"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Node.js Best Practices",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-06-15T11:41:04Z",
-            "owner": "goldbergyoni",
-            "repo": "nodebestpractices",
-            "stars": 105583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Node.js Style Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-24T03:40:33Z",
-            "owner": "felixge",
-            "repo": "node-style-guide",
-            "stars": 4994
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "Any improvements or suggestions are welcome! See Contribution Guides.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:43:15.770Z",
+    "last_updated": "2026-08-19T07:43:45.486Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
