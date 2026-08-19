@@ -259,7 +259,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105585
+                "stars": 105589
               }
             },
             {
@@ -287,8 +287,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:43:45.486Z",
+    "last_updated": "2026-08-19T12:32:23.210Z",
     "original_repository": "NARKOZ/guides",
+    "original_repository_id": 29089818,
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
     "enhanced_repository": "enhansome/enhansome-guides",
     "enhanced_repository_description": null,
