@@ -60,7 +60,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148130
+                "stars": 148123
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29449
+                "stars": 29448
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23319
+                "stars": 23321
               }
             },
             {
@@ -259,7 +259,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105589
+                "stars": 105593
               }
             },
             {
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:46:35.776Z",
+    "last_updated": "2026-08-21T07:48:55.833Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_id": 29089818,
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
