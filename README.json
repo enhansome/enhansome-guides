@@ -39,6 +39,28 @@
           "description": null,
           "node_type": "group",
           "title": "CSS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Principles of writing idiomatic Sass",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9687892,
+                "language": null,
+                "last_commit": "2016-06-07T12:28:45Z",
+                "owner": "anthonyshort",
+                "repo": "idiomatic-sass",
+                "stars": 227
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sass"
         }
       ],
       "title": "Styling"
@@ -46,6 +68,116 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C++ Core Guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41058054,
+                "language": "CSS",
+                "last_commit": "2026-08-06T15:54:13Z",
+                "owner": "isocpp",
+                "repo": "CppCoreGuidelines",
+                "stars": 45264
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clojure Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7427613,
+                "language": null,
+                "last_commit": "2026-04-15T08:05:32Z",
+                "owner": "bbatsov",
+                "repo": "clojure-style-guide",
+                "stars": 4097
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CoffeeScript Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3013517,
+                "language": null,
+                "last_commit": "2018-11-08T08:05:46Z",
+                "owner": "polarmobile",
+                "repo": "coffeescript-style-guide",
+                "stars": 1629
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CoffeeScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elixir Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13060236,
+                "language": "Elixir",
+                "last_commit": "2024-05-10T03:55:51Z",
+                "owner": "christopheradams",
+                "repo": "elixir_style_guide",
+                "stars": 4427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go Code Review Comments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23096959,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:09:02Z",
+                "owner": "golang",
+                "repo": "go",
+                "stars": 136202
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
         {
           "children": [
             {
@@ -90,7 +222,7 @@
                 "last_commit": "2024-01-08T20:19:45Z",
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25728
+                "stars": 25727
               }
             },
             {
@@ -164,9 +296,147 @@
           "description": null,
           "node_type": "group",
           "title": "Objective-C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2371106,
+                "language": null,
+                "last_commit": "2026-07-20T10:56:34Z",
+                "owner": "rubocop",
+                "repo": "ruby-style-guide",
+                "stars": 16550
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rust Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724712,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:34:36Z",
+                "owner": "rust-lang",
+                "repo": "rust",
+                "stars": 115977
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Official Kodeco Swift Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20667410,
+                "language": null,
+                "last_commit": "2025-04-01T18:21:22Z",
+                "owner": "kodecocodes",
+                "repo": "swift-style-guide",
+                "stars": 13161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
         }
       ],
       "title": "Programming Languages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AngularJS Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22362099,
+                "language": "Vim Snippet",
+                "last_commit": "2026-04-30T18:23:12Z",
+                "owner": "johnpapa",
+                "repo": "angular-styleguide",
+                "stars": 23616
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AngularJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RSpec Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8885599,
+                "language": null,
+                "last_commit": "2025-11-24T12:24:03Z",
+                "owner": "rubocop",
+                "repo": "rspec-style-guide",
+                "stars": 977
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RSpec"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rails Style Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2454047,
+                "language": null,
+                "last_commit": "2026-07-21T01:22:59Z",
+                "owner": "rubocop",
+                "repo": "rails-style-guide",
+                "stars": 6504
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rails"
+        }
+      ],
+      "title": "Frameworks"
     },
     {
       "description": null,
@@ -212,6 +482,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "favicon-cheat-sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11898182,
+                "language": null,
+                "last_commit": "2026-01-22T10:23:59Z",
+                "owner": "audreyfeldroy",
+                "repo": "favicon-cheat-sheet",
+                "stars": 9903
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Favicon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Commit messages guide",
               "description": null,
               "children": [],
@@ -222,7 +514,7 @@
                 "last_commit": "2025-06-12T15:45:39Z",
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6767
+                "stars": 6766
               }
             },
             {
@@ -259,7 +551,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105599
+                "stars": 105600
               }
             },
             {
@@ -287,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:00:18.057Z",
+    "last_updated": "2026-08-24T13:43:58.313Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_id": 29089818,
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
