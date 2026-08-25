@@ -63,7 +63,7 @@ coding style guides and development practices across the web.
 ### CSS
 
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,652 | 🐛 7 | 📅 2022-12-21
-* [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) ⭐ 3,644 | 🐛 13 | 📅 2022-09-01
+* [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) ⭐ 3,643 | 🐛 13 | 📅 2022-09-01
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [HTML and CSS code guide](https://codeguide.co/)
 
@@ -78,7 +78,7 @@ coding style guides and development practices across the web.
 ### HTML
 
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) ⭐ 8,463 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
+* [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) ⭐ 8,462 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
 
 ### XML
 
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 136,442 | 🐛 10,146 | 🌐 Go | 📅 2026-08-25
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 136,446 | 🐛 10,145 | 🌐 Go | 📅 2026-08-25
 
 ### Haskell
 
@@ -123,7 +123,7 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,131 | 🐛 164 | 🌐 JavaScript | 📅 2026-04-16
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,132 | 🐛 164 | 🌐 JavaScript | 📅 2026-04-16
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,450 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,728 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,430 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
@@ -163,7 +163,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 116,186 | 🐛 12,623 | 🌐 Rust | 📅 2026-08-25
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 116,190 | 🐛 12,614 | 🌐 Rust | 📅 2026-08-25
 
 ### Scala
 
