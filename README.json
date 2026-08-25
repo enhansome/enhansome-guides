@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45264
+                "stars": 45266
               }
             }
           ],
@@ -148,7 +148,7 @@
                 "last_commit": "2024-05-10T03:55:51Z",
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
-                "stars": 4427
+                "stars": 4426
               }
             }
           ],
@@ -167,10 +167,10 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-24T11:09:02Z",
+                "last_commit": "2026-08-25T00:53:42Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136202
+                "stars": 136442
               }
             }
           ],
@@ -192,7 +192,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148132
+                "stars": 148131
               }
             },
             {
@@ -207,7 +207,7 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29451
+                "stars": 29450
               }
             },
             {
@@ -222,7 +222,7 @@
                 "last_commit": "2024-01-08T20:19:45Z",
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25727
+                "stars": 25728
               }
             },
             {
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 724712,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:34:36Z",
+                "last_commit": "2026-08-25T05:05:59Z",
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 115977
+                "stars": 116186
               }
             }
           ],
@@ -383,7 +383,7 @@
                 "last_commit": "2026-04-30T18:23:12Z",
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23616
+                "stars": 23617
               }
             }
           ],
@@ -455,7 +455,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23323
+                "stars": 23325
               }
             },
             {
@@ -470,7 +470,7 @@
                 "last_commit": "2024-01-16T20:27:54Z",
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13684
+                "stars": 13685
               }
             }
           ],
@@ -551,7 +551,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105600
+                "stars": 105601
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2021-01-24T03:40:33Z",
                 "owner": "felixge",
                 "repo": "node-style-guide",
-                "stars": 4994
+                "stars": 4993
               }
             }
           ],
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:45:35.722Z",
+    "last_updated": "2026-08-25T05:42:27.567Z",
     "original_repository": "NARKOZ/guides",
     "original_repository_id": 29089818,
     "original_repository_sha": "3c512a4da13d31407881569d33cbbad2e30f0fb8",
