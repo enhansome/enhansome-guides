@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45280
+                "stars": 45278
               }
             }
           ],
@@ -167,10 +167,10 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-27T04:31:00Z",
+                "last_commit": "2026-08-27T17:55:28Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136538
+                "stars": 136543
               }
             }
           ],
@@ -192,7 +192,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148139
+                "stars": 148141
               }
             },
             {
@@ -207,7 +207,7 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29452
+                "stars": 29453
               }
             },
             {
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 724712,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:27:24Z",
+                "last_commit": "2026-08-27T17:58:28Z",
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116281
+                "stars": 116289
               }
             }
           ],
@@ -455,7 +455,7 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23328
+                "stars": 23329
               }
             },
             {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105602
+                "stars": 105605
               }
             },
             {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:51.387Z",
+    "last_updated": "2026-08-27T18:10:46.239Z",
     "original_repository_info": {
       "archived": false,
       "id": 29089818,
