@@ -18,7 +18,8 @@
                 "owner": "necolas",
                 "repo": "idiomatic-css",
                 "stars": 6652
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "csswizardry",
                 "repo": "CSS-Guidelines",
                 "stars": 3642
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "anthonyshort",
                 "repo": "idiomatic-sass",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -82,8 +85,9 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45278
-              }
+                "stars": 45281
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -105,7 +109,8 @@
                 "owner": "bbatsov",
                 "repo": "clojure-style-guide",
                 "stars": 4097
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -127,7 +132,8 @@
                 "owner": "polarmobile",
                 "repo": "coffeescript-style-guide",
                 "stars": 1628
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -149,7 +155,8 @@
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
                 "stars": 4426
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -167,11 +174,12 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:55:28Z",
+                "last_commit": "2026-08-28T19:10:03Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136543
-              }
+                "stars": 136557
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -192,8 +200,9 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148141
-              }
+                "stars": 148144
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -207,8 +216,9 @@
                 "last_commit": "2024-12-09T07:59:04Z",
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29453
-              }
+                "stars": 29451
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -223,7 +233,8 @@
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
                 "stars": 25728
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -238,7 +249,8 @@
                 "owner": "hueitan",
                 "repo": "javascript-sdk-design",
                 "stars": 1430
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -253,7 +265,8 @@
                 "owner": "elierotenberg",
                 "repo": "coding-styles",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -275,7 +288,8 @@
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
                 "stars": 5818
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -290,7 +304,8 @@
                 "owner": "kodecocodes",
                 "repo": "objective-c-style-guide",
                 "stars": 3083
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -312,7 +327,8 @@
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
                 "stars": 16548
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -330,11 +346,12 @@
                 "archived": false,
                 "id": 724712,
                 "language": "Rust",
-                "last_commit": "2026-08-27T17:58:28Z",
+                "last_commit": "2026-08-28T19:14:48Z",
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116289
-              }
+                "stars": 116320
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -356,7 +373,8 @@
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
                 "stars": 13161
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -384,7 +402,8 @@
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
                 "stars": 23616
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -406,7 +425,8 @@
                 "owner": "rubocop",
                 "repo": "rspec-style-guide",
                 "stars": 977
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -428,7 +448,8 @@
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
                 "stars": 6504
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -455,8 +476,9 @@
                 "last_commit": "2026-08-05T00:07:38Z",
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23329
-              }
+                "stars": 23331
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -471,7 +493,8 @@
                 "owner": "interagent",
                 "repo": "http-api-design",
                 "stars": 13684
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -493,7 +516,8 @@
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
                 "stars": 9904
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -515,7 +539,8 @@
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
                 "stars": 6766
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -530,7 +555,8 @@
                 "owner": "agis",
                 "repo": "git-style-guide",
                 "stars": 5116
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -551,8 +577,9 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105605
-              }
+                "stars": 105603
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             },
             {
               "node_type": "item",
@@ -567,7 +594,8 @@
                 "owner": "felixge",
                 "repo": "node-style-guide",
                 "stars": 4993
-              }
+              },
+              "first_seen": "2026-08-28T19:21:12.080Z"
             }
           ],
           "description": null,
@@ -579,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:10:46.239Z",
+    "last_updated": "2026-08-28T19:21:12.080Z",
     "original_repository_info": {
       "archived": false,
       "id": 29089818,
