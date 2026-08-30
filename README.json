@@ -104,7 +104,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45284,
+                "stars": 45286,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -222,10 +222,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-29T04:45:04Z",
-                "open_issues": 10094,
+                "open_issues": 10101,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136566,
+                "stars": 136825,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148143,
+                "stars": 148141,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29451,
+                "stars": 29450,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25729,
+                "stars": 25728,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -448,7 +448,7 @@
                 "open_issues": 74,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16547,
+                "stars": 16548,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T13:04:25Z",
-                "open_issues": 12582,
+                "last_commit": "2026-08-30T12:19:38Z",
+                "open_issues": 12576,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116341,
+                "stars": 116646,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13161,
+                "stars": 13159,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -546,7 +546,7 @@
                 "open_issues": 1,
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23617,
+                "stars": 23616,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -608,7 +608,7 @@
                 "open_issues": 44,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
-                "stars": 6504,
+                "stars": 6505,
                 "topics": [
                   "rails",
                   "rubocop",
@@ -647,7 +647,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23333,
+                "stars": 23334,
                 "topics": [
                   "api",
                   "guidelines",
@@ -783,7 +783,7 @@
                 "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105604,
+                "stars": 105600,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:05:32.485Z",
+    "last_updated": "2026-08-30T12:42:22.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
@@ -850,7 +850,7 @@
       "open_issues": 3,
       "owner": "NARKOZ",
       "repo": "guides",
-      "stars": 2422,
+      "stars": 2420,
       "topics": [
         "api",
         "awesome",
