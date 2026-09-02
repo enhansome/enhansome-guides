@@ -42,7 +42,7 @@
                 "open_issues": 13,
                 "owner": "csswizardry",
                 "repo": "CSS-Guidelines",
-                "stars": 3641,
+                "stars": 3640,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -104,7 +104,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45286,
+                "stars": 45289,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-01T01:58:01Z",
-                "open_issues": 10096,
+                "last_commit": "2026-09-02T06:14:16Z",
+                "open_issues": 10121,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 137090,
+                "stars": 137118,
                 "topics": [
                   "go",
                   "golang",
@@ -255,10 +255,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148138,
+                "stars": 148141,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25725,
+                "stars": 25726,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -399,7 +399,7 @@
                 "open_issues": 0,
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
-                "stars": 5815,
+                "stars": 5814,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T12:27:31Z",
-                "open_issues": 12598,
+                "last_commit": "2026-09-02T11:21:09Z",
+                "open_issues": 12612,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 116946,
+                "stars": 116973,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13159,
+                "stars": 13157,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -647,7 +647,7 @@
                 "open_issues": 176,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23332,
+                "stars": 23331,
                 "topics": [
                   "api",
                   "guidelines",
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13685,
+                "stars": 13684,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -701,7 +701,7 @@
                 "open_issues": 3,
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
-                "stars": 9904,
+                "stars": 9903,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -780,10 +780,10 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105601,
+                "stars": 105606,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:29:13.514Z",
+    "last_updated": "2026-09-02T12:02:17.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
