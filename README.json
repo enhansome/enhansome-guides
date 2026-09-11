@@ -104,7 +104,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45308,
+                "stars": 45311,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T02:45:47Z",
-                "open_issues": 10157,
+                "last_commit": "2026-09-10T23:01:21Z",
+                "open_issues": 10168,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 137997,
+                "stars": 138413,
                 "topics": [
                   "go",
                   "golang",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25725,
+                "stars": 25726,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T11:39:38Z",
-                "open_issues": 12619,
+                "last_commit": "2026-09-11T12:03:58Z",
+                "open_issues": 12605,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 117995,
+                "stars": 118387,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -546,7 +546,7 @@
                 "open_issues": 1,
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23612,
+                "stars": 23611,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -644,10 +644,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
-                "open_issues": 177,
+                "open_issues": 178,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23330,
+                "stars": 23331,
                 "topics": [
                   "api",
                   "guidelines",
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6768,
+                "stars": 6769,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105607,
+                "stars": 105611,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:09:15.646Z",
+    "last_updated": "2026-09-11T12:07:18.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
