@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-12T15:23:42Z",
-                "open_issues": 10132,
+                "last_commit": "2026-09-14T06:59:17Z",
+                "open_issues": 10143,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 138485,
+                "stars": 138806,
                 "topics": [
                   "go",
                   "golang",
@@ -255,10 +255,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148216,
+                "stars": 148225,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25727,
+                "stars": 25728,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -448,7 +448,7 @@
                 "open_issues": 73,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16545,
+                "stars": 16546,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T12:09:42Z",
-                "open_issues": 12624,
+                "last_commit": "2026-09-14T13:26:02Z",
+                "open_issues": 12633,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 118483,
+                "stars": 118824,
                 "topics": [
                   "compiler",
                   "language",
@@ -647,7 +647,7 @@
                 "open_issues": 179,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23329,
+                "stars": 23330,
                 "topics": [
                   "api",
                   "guidelines",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:38:49.576Z",
+    "last_updated": "2026-09-14T13:48:32.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
@@ -850,7 +850,7 @@
       "open_issues": 3,
       "owner": "NARKOZ",
       "repo": "guides",
-      "stars": 2422,
+      "stars": 2423,
       "topics": [
         "api",
         "awesome",
