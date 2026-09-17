@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6650,
+                "stars": 6649,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -104,7 +104,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45318,
+                "stars": 45319,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-16T12:26:55Z",
-                "open_issues": 10157,
+                "last_commit": "2026-09-17T01:07:40Z",
+                "open_issues": 10159,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 138843,
+                "stars": 138872,
                 "topics": [
                   "go",
                   "golang",
@@ -255,10 +255,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148233,
+                "stars": 148239,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29434,
+                "stars": 29432,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T12:22:01Z",
-                "open_issues": 12623,
+                "last_commit": "2026-09-17T12:23:54Z",
+                "open_issues": 12630,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 118913,
+                "stars": 118941,
                 "topics": [
                   "compiler",
                   "language",
@@ -647,7 +647,7 @@
                 "open_issues": 179,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23333,
+                "stars": 23334,
                 "topics": [
                   "api",
                   "guidelines",
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105621,
+                "stars": 105626,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:31:36.608Z",
+    "last_updated": "2026-09-17T12:31:07.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
