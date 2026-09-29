@@ -101,10 +101,10 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T15:54:13Z",
-                "open_issues": 248,
+                "open_issues": 249,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45342,
+                "stars": 45344,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -132,7 +132,7 @@
                 "open_issues": 46,
                 "owner": "bbatsov",
                 "repo": "clojure-style-guide",
-                "stars": 4101,
+                "stars": 4100,
                 "topics": [
                   "clojure",
                   "style-guide",
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T13:32:13Z",
-                "open_issues": 10272,
+                "last_commit": "2026-09-29T13:03:48Z",
+                "open_issues": 10264,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139064,
+                "stars": 139080,
                 "topics": [
                   "go",
                   "golang",
@@ -445,7 +445,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-20T10:56:34Z",
-                "open_issues": 75,
+                "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
                 "stars": 16548,
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T15:08:28Z",
-                "open_issues": 12612,
+                "last_commit": "2026-09-29T13:26:22Z",
+                "open_issues": 12586,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119262,
+                "stars": 119304,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13152,
+                "stars": 13153,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -546,7 +546,7 @@
                 "open_issues": 1,
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23606,
+                "stars": 23604,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -608,7 +608,7 @@
                 "open_issues": 46,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
-                "stars": 6504,
+                "stars": 6505,
                 "topics": [
                   "rails",
                   "rubocop",
@@ -644,10 +644,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
-                "open_issues": 180,
+                "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23338,
+                "stars": 23337,
                 "topics": [
                   "api",
                   "guidelines",
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105636,
+                "stars": 105638,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:12:31.038Z",
+    "last_updated": "2026-09-29T13:54:34.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
