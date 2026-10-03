@@ -104,7 +104,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45353,
+                "stars": 45354,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -222,10 +222,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T21:55:53Z",
-                "open_issues": 10283,
+                "open_issues": 10286,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139132,
+                "stars": 139140,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148301,
+                "stars": 148302,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:15:42Z",
-                "open_issues": 12615,
+                "last_commit": "2026-10-03T11:31:41Z",
+                "open_issues": 12613,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119418,
+                "stars": 119424,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13151,
+                "stars": 13150,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -647,7 +647,7 @@
                 "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23334,
+                "stars": 23335,
                 "topics": [
                   "api",
                   "guidelines",
@@ -780,10 +780,10 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105651,
+                "stars": 105655,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:15.849Z",
+    "last_updated": "2026-10-03T12:23:15.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
