@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Principles of writing consistent, idiomatic CSS",
-              "description": null,
+              "description": "necolas/idiomatic-css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "General CSS notes, advice and guidelines",
-              "description": null,
+              "description": "csswizardry/CSS-Guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "Principles of writing idiomatic Sass",
-              "description": null,
+              "description": "anthonyshort/idiomatic-sass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -91,7 +91,7 @@
             {
               "node_type": "item",
               "title": "C++ Core Guidelines",
-              "description": null,
+              "description": "isocpp/CppCoreGuidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45350,
+                "stars": 45353,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "Clojure Style Guide",
-              "description": null,
+              "description": "bbatsov/clojure-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,7 +151,7 @@
             {
               "node_type": "item",
               "title": "CoffeeScript Style Guide",
-              "description": null,
+              "description": "polarmobile/coffeescript-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "Elixir Style Guide",
-              "description": null,
+              "description": "christopheradams/elixir_style_guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
                 "open_issues": 8,
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
-                "stars": 4427,
+                "stars": 4426,
                 "topics": [
                   "elixir",
                   "elixir-lang",
@@ -212,7 +212,7 @@
             {
               "node_type": "item",
               "title": "Go Code Review Comments",
-              "description": null,
+              "description": "golang/go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T00:26:53Z",
-                "open_issues": 10282,
+                "last_commit": "2026-10-02T21:55:53Z",
+                "open_issues": 10283,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139121,
+                "stars": 139132,
                 "topics": [
                   "go",
                   "golang",
@@ -245,7 +245,7 @@
             {
               "node_type": "item",
               "title": "Airbnb JavaScript Style Guide",
-              "description": null,
+              "description": "airbnb/javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -255,10 +255,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148305,
+                "stars": 148301,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -281,7 +281,7 @@
             {
               "node_type": "item",
               "title": "Project Guidelines",
-              "description": null,
+              "description": "elsewhencode/project-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "Principles of Writing Consistent, Idiomatic JavaScript",
-              "description": null,
+              "description": "rwaldron/idiomatic.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25728,
+                "stars": 25729,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "JavaScript SDK Design Guide",
-              "description": null,
+              "description": "hueitan/javascript-sdk-design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -358,7 +358,7 @@
             {
               "node_type": "item",
               "title": "ES6 Coding Style",
-              "description": null,
+              "description": "elierotenberg/coding-styles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "NYTimes Objective-C Style Guide",
-              "description": null,
+              "description": "nytimes/objective-c-style-guide",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "The official raywenderlich.com Objective-C style guide",
-              "description": null,
+              "description": "kodecocodes/objective-c-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "Ruby Style Guide",
-              "description": null,
+              "description": "rubocop/ruby-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -448,7 +448,7 @@
                 "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16547,
+                "stars": 16548,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -467,7 +467,7 @@
             {
               "node_type": "item",
               "title": "Rust Style Guide",
-              "description": null,
+              "description": "rust-lang/rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:43:10Z",
-                "open_issues": 12614,
+                "last_commit": "2026-10-03T03:15:42Z",
+                "open_issues": 12615,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119398,
+                "stars": 119418,
                 "topics": [
                   "compiler",
                   "language",
@@ -499,7 +499,7 @@
             {
               "node_type": "item",
               "title": "The Official Kodeco Swift Style Guide",
-              "description": null,
+              "description": "kodecocodes/swift-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13152,
+                "stars": 13151,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "AngularJS Style Guide",
-              "description": null,
+              "description": "johnpapa/angular-styleguide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -546,7 +546,7 @@
                 "open_issues": 1,
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23602,
+                "stars": 23601,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -561,7 +561,7 @@
             {
               "node_type": "item",
               "title": "RSpec Style Guide",
-              "description": null,
+              "description": "rubocop/rspec-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -595,7 +595,7 @@
             {
               "node_type": "item",
               "title": "Rails Style Guide",
-              "description": null,
+              "description": "rubocop/rails-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +634,7 @@
             {
               "node_type": "item",
               "title": "Microsoft REST API Guidelines",
-              "description": null,
+              "description": "microsoft/api-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -660,7 +660,7 @@
             {
               "node_type": "item",
               "title": "HTTP API Design Guide",
-              "description": null,
+              "description": "interagent/http-api-design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13681,
+                "stars": 13679,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -688,7 +688,7 @@
             {
               "node_type": "item",
               "title": "favicon-cheat-sheet",
-              "description": null,
+              "description": "audreyfeldroy/favicon-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -716,7 +716,7 @@
             {
               "node_type": "item",
               "title": "Commit messages guide",
-              "description": null,
+              "description": "RomuloOliveira/commit-messages-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,7 +737,7 @@
             {
               "node_type": "item",
               "title": "Git Style Guide",
-              "description": null,
+              "description": "agis/git-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,7 @@
             {
               "node_type": "item",
               "title": "Node.js Best Practices",
-              "description": null,
+              "description": "goldbergyoni/nodebestpractices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -783,7 +783,7 @@
                 "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105652,
+                "stars": 105651,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "Node.js Style Guide",
-              "description": null,
+              "description": "felixge/node-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:43:23.976Z",
+    "last_updated": "2026-10-03T04:48:15.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
@@ -850,7 +850,7 @@
       "open_issues": 3,
       "owner": "NARKOZ",
       "repo": "guides",
-      "stars": 2426,
+      "stars": 2427,
       "topics": [
         "api",
         "awesome",
