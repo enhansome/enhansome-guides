@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T21:55:53Z",
-                "open_issues": 10300,
+                "last_commit": "2026-10-05T12:45:42Z",
+                "open_issues": 10315,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139208,
+                "stars": 139264,
                 "topics": [
                   "go",
                   "golang",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25732,
+                "stars": 25730,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -448,7 +448,7 @@
                 "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16547,
+                "stars": 16546,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T12:25:12Z",
-                "open_issues": 12621,
+                "last_commit": "2026-10-05T14:37:44Z",
+                "open_issues": 12625,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119523,
+                "stars": 119579,
                 "topics": [
                   "compiler",
                   "language",
@@ -604,8 +604,8 @@
                 "id": 2454047,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-07-21T01:22:59Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-04T19:49:42Z",
+                "open_issues": 45,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
                 "stars": 6505,
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6767,
+                "stars": 6766,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105656,
+                "stars": 105655,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:06:38.017Z",
+    "last_updated": "2026-10-05T15:46:26.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
