@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,294 | 🐛 10,316 | 🌐 Go | 📅 2026-10-06
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,322 | 🐛 10,315 | 🌐 Go | 📅 2026-10-06
 
 ### Haskell
 
@@ -125,7 +125,7 @@ coding style guides and development practices across the web.
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,304 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,426 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,729 | 🐛 58 | 📅 2024-01-08
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,730 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,429 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 401 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -163,7 +163,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 119,606 | 🐛 12,643 | 🌐 Rust | 📅 2026-10-06
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 119,634 | 🐛 12,643 | 🌐 Rust | 📅 2026-10-06
 
 ### Scala
 
