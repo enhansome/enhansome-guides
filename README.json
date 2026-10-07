@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6645,
+                "stars": 6644,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -104,7 +104,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45355,
+                "stars": 45361,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -192,7 +192,7 @@
                 "open_issues": 8,
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "elixir",
                   "elixir-lang",
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T13:51:30Z",
-                "open_issues": 10315,
+                "last_commit": "2026-10-07T02:26:29Z",
+                "open_issues": 10318,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139322,
+                "stars": 139309,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148304,
+                "stars": 148296,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29426,
+                "stars": 29425,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -448,7 +448,7 @@
                 "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16546,
+                "stars": 16545,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T13:24:14Z",
-                "open_issues": 12643,
+                "last_commit": "2026-10-07T13:58:35Z",
+                "open_issues": 12689,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119634,
+                "stars": 119674,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13150,
+                "stars": 13147,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -608,7 +608,7 @@
                 "open_issues": 45,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
-                "stars": 6506,
+                "stars": 6505,
                 "topics": [
                   "rails",
                   "rubocop",
@@ -644,10 +644,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-05T00:07:38Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23334,
+                "stars": 23332,
                 "topics": [
                   "api",
                   "guidelines",
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13679,
+                "stars": 13680,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -701,7 +701,7 @@
                 "open_issues": 3,
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
-                "stars": 9907,
+                "stars": 9906,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6766,
+                "stars": 6765,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105658,
+                "stars": 105657,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:03:30.248Z",
+    "last_updated": "2026-10-07T14:21:26.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
