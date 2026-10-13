@@ -93,7 +93,7 @@ coding style guides and development practices across the web.
 
 ### C++
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,373 | 🐛 247 | 🌐 CSS | 📅 2026-10-01
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,378 | 🐛 247 | 🌐 CSS | 📅 2026-10-01
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### C\#
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,222 | 🐛 10,308 | 🌐 Go | 📅 2026-10-10
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,265 | 🐛 10,326 | 🌐 Go | 📅 2026-10-13
 
 ### Haskell
 
@@ -123,8 +123,8 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,085 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,422 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,082 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,421 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,729 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,429 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 401 | 🐛 2 | 📅 2016-08-17
@@ -158,12 +158,12 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,546 | 🐛 78 | 📅 2026-10-05
+* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,545 | 🐛 78 | 📅 2026-10-05
 * [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 119,744 | 🐛 12,588 | 🌐 Rust | 📅 2026-10-12
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 119,824 | 🐛 12,564 | 🌐 Rust | 📅 2026-10-13
 
 ### Scala
 
@@ -212,7 +212,7 @@ coding style guides and development practices across the web.
 
 ### API
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,332 | 🐛 181 | 📅 2026-08-05
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,330 | 🐛 181 | 📅 2026-08-05
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,677 | 🐛 30 | 📅 2024-01-16
 * [Principles of good RESTful API
   Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
@@ -255,8 +255,8 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,657 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15
-* [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,986 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,655 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15
+* [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,985 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
 
@@ -289,4 +289,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
