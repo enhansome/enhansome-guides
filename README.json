@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6644,
+                "stars": 6643,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -104,7 +104,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45381,
+                "stars": 45380,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-14T00:11:26Z",
-                "open_issues": 10347,
+                "last_commit": "2026-10-15T06:30:31Z",
+                "open_issues": 10346,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139379,
+                "stars": 139193,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148074,
+                "stars": 148072,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25729,
+                "stars": 25727,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -448,7 +448,7 @@
                 "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16544,
+                "stars": 16543,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T11:35:31Z",
+                "last_commit": "2026-10-15T12:25:03Z",
                 "open_issues": 12569,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 119998,
+                "stars": 120274,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13147,
+                "stars": 13146,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -546,7 +546,7 @@
                 "open_issues": 1,
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23596,
+                "stars": 23595,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13676,
+                "stars": 13675,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -698,7 +698,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-22T10:23:59Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
                 "stars": 9903,
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6764,
+                "stars": 6766,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:46:39.373Z",
+    "last_updated": "2026-10-15T12:33:38.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
