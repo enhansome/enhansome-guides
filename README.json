@@ -104,7 +104,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45380,
+                "stars": 45381,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T06:30:31Z",
-                "open_issues": 10346,
+                "last_commit": "2026-10-16T01:39:22Z",
+                "open_issues": 10355,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139193,
+                "stars": 139276,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148072,
+                "stars": 148066,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25727,
+                "stars": 25726,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T12:25:03Z",
-                "open_issues": 12569,
+                "last_commit": "2026-10-16T12:06:00Z",
+                "open_issues": 12582,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 120274,
+                "stars": 120408,
                 "topics": [
                   "compiler",
                   "language",
@@ -647,7 +647,7 @@
                 "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23333,
+                "stars": 23335,
                 "topics": [
                   "api",
                   "guidelines",
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13675,
+                "stars": 13676,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -750,7 +750,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5110,
+                "stars": 5111,
                 "topics": [
                   "git",
                   "style",
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105659,
+                "stars": 105660,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:33:38.931Z",
+    "last_updated": "2026-10-16T12:12:52.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
