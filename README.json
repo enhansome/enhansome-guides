@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6643,
+                "stars": 6642,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -101,10 +101,10 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T20:15:57Z",
-                "open_issues": 247,
+                "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45381,
+                "stars": 45383,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -132,7 +132,7 @@
                 "open_issues": 46,
                 "owner": "bbatsov",
                 "repo": "clojure-style-guide",
-                "stars": 4101,
+                "stars": 4100,
                 "topics": [
                   "clojure",
                   "style-guide",
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-16T01:39:22Z",
-                "open_issues": 10355,
+                "last_commit": "2026-10-17T01:15:20Z",
+                "open_issues": 10368,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139276,
+                "stars": 139283,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148066,
+                "stars": 148060,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29419,
+                "stars": 29418,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25726,
+                "stars": 25724,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T12:06:00Z",
-                "open_issues": 12582,
+                "last_commit": "2026-10-17T11:18:57Z",
+                "open_issues": 12575,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 120408,
+                "stars": 120435,
                 "topics": [
                   "compiler",
                   "language",
@@ -605,7 +605,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-04T19:49:42Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
                 "stars": 6504,
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13676,
+                "stars": 13675,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -701,7 +701,7 @@
                 "open_issues": 4,
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
-                "stars": 9903,
+                "stars": 9904,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6766,
+                "stars": 6767,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -750,7 +750,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5111,
+                "stars": 5112,
                 "topics": [
                   "git",
                   "style",
@@ -783,7 +783,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105660,
+                "stars": 105665,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:12:52.008Z",
+    "last_updated": "2026-10-17T11:30:18.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
@@ -850,7 +850,7 @@
       "open_issues": 3,
       "owner": "NARKOZ",
       "repo": "guides",
-      "stars": 2430,
+      "stars": 2431,
       "topics": [
         "api",
         "awesome",
