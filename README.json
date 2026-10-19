@@ -104,7 +104,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45388,
+                "stars": 45391,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-17T01:15:20Z",
-                "open_issues": 10350,
+                "last_commit": "2026-10-19T09:48:38Z",
+                "open_issues": 10368,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139299,
+                "stars": 139398,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148061,
+                "stars": 148058,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29418,
+                "stars": 29417,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -322,7 +322,7 @@
                 "open_issues": 58,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25723,
+                "stars": 25724,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T11:53:48Z",
-                "open_issues": 12592,
+                "last_commit": "2026-10-19T13:32:25Z",
+                "open_issues": 12614,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 120472,
+                "stars": 120594,
                 "topics": [
                   "compiler",
                   "language",
@@ -608,7 +608,7 @@
                 "open_issues": 44,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
-                "stars": 6504,
+                "stars": 6503,
                 "topics": [
                   "rails",
                   "rubocop",
@@ -647,7 +647,7 @@
                 "open_issues": 181,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23337,
+                "stars": 23338,
                 "topics": [
                   "api",
                   "guidelines",
@@ -701,7 +701,7 @@
                 "open_issues": 4,
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
-                "stars": 9904,
+                "stars": 9905,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:59:38.653Z",
+    "last_updated": "2026-10-19T14:31:02.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
@@ -850,7 +850,7 @@
       "open_issues": 3,
       "owner": "NARKOZ",
       "repo": "guides",
-      "stars": 2431,
+      "stars": 2432,
       "topics": [
         "api",
         "awesome",
