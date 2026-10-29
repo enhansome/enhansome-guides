@@ -93,7 +93,7 @@ coding style guides and development practices across the web.
 
 ### C++
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,391 | 🐛 249 | 🌐 CSS | 📅 2026-10-26
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,393 | 🐛 249 | 🌐 CSS | 📅 2026-10-26
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### C\#
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,485 | 🐛 10,531 | 🌐 Go | 📅 2026-10-28
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,502 | 🐛 10,548 | 🌐 Go | 📅 2026-10-29
 
 ### Haskell
 
@@ -123,9 +123,9 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,038 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,417 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,730 | 🐛 58 | 📅 2024-01-08
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,035 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,418 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,727 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,429 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 400 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -163,7 +163,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 120,879 | 🐛 12,630 | 🌐 Rust | 📅 2026-10-28
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 120,904 | 🐛 12,640 | 🌐 Rust | 📅 2026-10-29
 
 ### Scala
 
@@ -191,7 +191,7 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-* [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) ⭐ 23,593 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
+* [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) ⭐ 23,592 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
 * [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### RSpec
@@ -202,7 +202,7 @@ coding style guides and development practices across the web.
 
 ### Rails
 
-* [Rails Style Guide](https://github.com/rubocop/rails-style-guide#readme) ⭐ 6,503 | 🐛 44 | 📅 2026-10-04
+* [Rails Style Guide](https://github.com/rubocop/rails-style-guide#readme) ⭐ 6,504 | 🐛 44 | 📅 2026-10-04
 
 ### Vue
 
@@ -212,7 +212,7 @@ coding style guides and development practices across the web.
 
 ### API
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,340 | 🐛 182 | 📅 2026-08-05
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,342 | 🐛 182 | 📅 2026-08-05
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,672 | 🐛 30 | 📅 2024-01-16
 * [Principles of good RESTful API
   Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
@@ -234,7 +234,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-* [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme) ⭐ 9,903 | 🐛 4 | 📅 2026-01-22
+* [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme) ⭐ 9,904 | 🐛 4 | 📅 2026-01-22
 
 ### iOS
 
@@ -243,7 +243,7 @@ coding style guides and development practices across the web.
 ### Git
 
 * [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme) ⭐ 6,765 | 🐛 13 | 📅 2025-06-12
-* [Git Style Guide](https://github.com/agis/git-style-guide#readme) ⭐ 5,111 | 🐛 0 | 📅 2022-09-26
+* [Git Style Guide](https://github.com/agis/git-style-guide#readme) ⭐ 5,109 | 🐛 0 | 📅 2022-09-26
 
 ### JSON
 
@@ -255,7 +255,7 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,683 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,684 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,985 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
@@ -289,4 +289,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
