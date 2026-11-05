@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6640,
+                "stars": 6639,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -104,7 +104,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45433,
+                "stars": 45436,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -192,7 +192,7 @@
                 "open_issues": 8,
                 "owner": "christopheradams",
                 "repo": "elixir_style_guide",
-                "stars": 4428,
+                "stars": 4427,
                 "topics": [
                   "elixir",
                   "elixir-lang",
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-04T01:18:02Z",
-                "open_issues": 9913,
+                "last_commit": "2026-11-05T13:54:54Z",
+                "open_issues": 9903,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139561,
+                "stars": 139597,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148022,
+                "stars": 148023,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29416,
+                "stars": 29417,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T14:43:21Z",
-                "open_issues": 12615,
+                "last_commit": "2026-11-05T15:11:26Z",
+                "open_issues": 12586,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 121048,
+                "stars": 121101,
                 "topics": [
                   "compiler",
                   "language",
@@ -608,7 +608,7 @@
                 "open_issues": 44,
                 "owner": "rubocop",
                 "repo": "rails-style-guide",
-                "stars": 6503,
+                "stars": 6501,
                 "topics": [
                   "rails",
                   "rubocop",
@@ -701,7 +701,7 @@
                 "open_issues": 5,
                 "owner": "audreyfeldroy",
                 "repo": "favicon-cheat-sheet",
-                "stars": 9905,
+                "stars": 9904,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6761,
+                "stars": 6760,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:17:04.601Z",
+    "last_updated": "2026-11-05T15:17:32.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
