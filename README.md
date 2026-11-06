@@ -62,7 +62,7 @@ coding style guides and development practices across the web.
 
 ### CSS
 
-* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,639 | 🐛 7 | 📅 2022-12-21
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,637 | 🐛 7 | 📅 2022-12-21
 * [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) ⭐ 3,636 | 🐛 13 | 📅 2022-09-01
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [HTML and CSS code guide](https://codeguide.co/)
@@ -78,7 +78,7 @@ coding style guides and development practices across the web.
 ### HTML
 
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) ⭐ 8,455 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
+* [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) ⭐ 8,454 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
 
 ### XML
 
@@ -93,7 +93,7 @@ coding style guides and development practices across the web.
 
 ### C++
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,436 | 🐛 248 | 🌐 CSS | 📅 2026-11-02
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 45,438 | 🐛 248 | 🌐 CSS | 📅 2026-11-02
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### C\#
@@ -103,7 +103,7 @@ coding style guides and development practices across the web.
 
 ### Clojure
 
-* [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) ⭐ 4,101 | 🐛 47 | 📅 2026-09-18
+* [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) ⭐ 4,100 | 🐛 47 | 📅 2026-09-18
 
 ### CoffeeScript
 
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,597 | 🐛 9,903 | 🌐 Go | 📅 2026-11-05
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,675 | 🐛 9,918 | 🌐 Go | 📅 2026-11-06
 
 ### Haskell
 
@@ -123,9 +123,9 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,023 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,417 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,725 | 🐛 57 | 📅 2024-01-08
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,026 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,415 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,726 | 🐛 57 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,429 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 400 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -139,7 +139,7 @@ coding style guides and development practices across the web.
 ### Objective-C
 
 * [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme) ⚠️ Archived
-* [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme) ⭐ 3,077 | 🐛 22 | 📅 2017-10-01
+* [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme) ⭐ 3,076 | 🐛 22 | 📅 2017-10-01
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
 
 ### PHP
@@ -158,12 +158,12 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,542 | 🐛 77 | 📅 2026-10-30
+* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,541 | 🐛 77 | 📅 2026-10-30
 * [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 121,101 | 🐛 12,586 | 🌐 Rust | 📅 2026-11-05
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 121,239 | 🐛 12,612 | 🌐 Rust | 📅 2026-11-06
 
 ### Scala
 
@@ -212,8 +212,8 @@ coding style guides and development practices across the web.
 
 ### API
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,342 | 🐛 183 | 📅 2026-10-30
-* [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,671 | 🐛 30 | 📅 2024-01-16
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,343 | 🐛 183 | 📅 2026-10-30
+* [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,670 | 🐛 30 | 📅 2024-01-16
 * [Principles of good RESTful API
   Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
 * [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
@@ -255,7 +255,7 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,716 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,714 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,983 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
@@ -289,4 +289,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
