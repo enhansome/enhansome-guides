@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6637,
+                "stars": 6638,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -104,7 +104,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45454,
+                "stars": 45459,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T16:35:50Z",
-                "open_issues": 9935,
+                "last_commit": "2026-11-10T01:16:03Z",
+                "open_issues": 9950,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139812,
+                "stars": 139825,
                 "topics": [
                   "go",
                   "golang",
@@ -258,7 +258,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148017,
+                "stars": 148013,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -322,7 +322,7 @@
                 "open_issues": 57,
                 "owner": "rwaldron",
                 "repo": "idiomatic.js",
-                "stars": 25726,
+                "stars": 25727,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "hueitan",
                 "repo": "javascript-sdk-design",
-                "stars": 1429,
+                "stars": 1430,
                 "topics": [
                   "design-guideline",
                   "design-principle",
@@ -448,7 +448,7 @@
                 "open_issues": 77,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16542,
+                "stars": 16540,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T15:55:12Z",
-                "open_issues": 12606,
+                "last_commit": "2026-11-10T14:45:56Z",
+                "open_issues": 12623,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 121681,
+                "stars": 121731,
                 "topics": [
                   "compiler",
                   "language",
@@ -512,7 +512,7 @@
                 "open_issues": 15,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13138,
+                "stars": 13139,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6758,
+                "stars": 6759,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:19:39.640Z",
+    "last_updated": "2026-11-10T15:29:26.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
