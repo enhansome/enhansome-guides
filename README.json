@@ -101,10 +101,10 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T16:17:44Z",
-                "open_issues": 249,
+                "open_issues": 250,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45475,
+                "stars": 45478,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -132,7 +132,7 @@
                 "open_issues": 32,
                 "owner": "bbatsov",
                 "repo": "clojure-style-guide",
-                "stars": 4098,
+                "stars": 4096,
                 "topics": [
                   "clojure",
                   "style-guide",
@@ -221,11 +221,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T16:52:12Z",
-                "open_issues": 9912,
+                "last_commit": "2026-11-17T16:39:57Z",
+                "open_issues": 9916,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139920,
+                "stars": 140166,
                 "topics": [
                   "go",
                   "golang",
@@ -255,10 +255,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148007,
+                "stars": 148005,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -294,7 +294,7 @@
                 "open_issues": 16,
                 "owner": "elsewhencode",
                 "repo": "project-guidelines",
-                "stars": 29412,
+                "stars": 29413,
                 "topics": [
                   "best-practices",
                   "guidelines",
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "hueitan",
                 "repo": "javascript-sdk-design",
-                "stars": 1430,
+                "stars": 1429,
                 "topics": [
                   "design-guideline",
                   "design-principle",
@@ -371,7 +371,7 @@
                 "open_issues": 2,
                 "owner": "elierotenberg",
                 "repo": "coding-styles",
-                "stars": 400,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -420,7 +420,7 @@
                 "open_issues": 22,
                 "owner": "kodecocodes",
                 "repo": "objective-c-style-guide",
-                "stars": 3075,
+                "stars": 3076,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -476,11 +476,11 @@
                 "id": 724712,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T15:20:27Z",
-                "open_issues": 12638,
+                "last_commit": "2026-11-17T16:43:54Z",
+                "open_issues": 12575,
                 "owner": "rust-lang",
                 "repo": "rust",
-                "stars": 122019,
+                "stars": 122290,
                 "topics": [
                   "compiler",
                   "language",
@@ -546,7 +546,7 @@
                 "open_issues": 3,
                 "owner": "johnpapa",
                 "repo": "angular-styleguide",
-                "stars": 23580,
+                "stars": 23581,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -647,7 +647,7 @@
                 "open_issues": 182,
                 "owner": "microsoft",
                 "repo": "api-guidelines",
-                "stars": 23347,
+                "stars": 23349,
                 "topics": [
                   "api",
                   "guidelines",
@@ -673,7 +673,7 @@
                 "open_issues": 30,
                 "owner": "interagent",
                 "repo": "http-api-design",
-                "stars": 13668,
+                "stars": 13670,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -729,7 +729,7 @@
                 "open_issues": 13,
                 "owner": "RomuloOliveira",
                 "repo": "commit-messages-guide",
-                "stars": 6763,
+                "stars": 6762,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:12.080Z"
@@ -783,7 +783,7 @@
                 "open_issues": 140,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105742,
+                "stars": 105748,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:53:24.473Z",
+    "last_updated": "2026-11-17T16:47:40.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Design and development guides",
